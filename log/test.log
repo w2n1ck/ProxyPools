@@ -1,0 +1,9 @@
+2019-10-30 21:15:52,023 log_handler.py[line:79] INFO this is a test msg
+2019-10-31 11:17:25,613 log_handler.py[line:76] WARNING this is a test msg
+2019-10-31 11:17:33,390 log_handler.py[line:76] WARNING this is a test msg
+2019-10-31 11:17:49,115 log_handler.py[line:76] WARNING this is a test msg
+2019-10-31 11:18:23,692 log_handler.py[line:76] WARNING this is a test msg
+2019-10-31 11:18:23,692 log_handler.py[line:77] INFO this is a test msg
+2019-10-31 11:18:23,692 log_handler.py[line:78] CRITICAL this is a test msg
+2019-10-31 11:18:23,692 log_handler.py[line:79] ERROR this is a test msg
+2019-10-31 11:18:23,692 log_handler.py[line:80] DEBUG this is a test msg
